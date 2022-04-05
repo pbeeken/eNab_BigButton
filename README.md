@@ -7,4 +7,12 @@ It is based on a [design on thingaverse](https://www.thingiverse.com/thing:30625
 
 The button is designed to be used with a standard 3.1mm audio patch cable which can be scavanged from many discarded speaker or old patch panel. Stereo or monorual will work.  Simply cut one end and wire the red and white leads to a switch.  The device is a favorite of a local hospital for their young members who need a larger switch for some toys we help modify.
 
+## Modification Notes
+The drawing can be expanded (to a point) by simply changing the proportions of the sketches in the x-y plane. Leave the pedistal the same size and leave the z distances the same for the same profile.  The "spiral spring" helps stabilize the z movement.
+
+## 3D Printing Notes
+So far we have printed dozens of buttons in various colors in PLA.  ABS would certainly produce a stronger more durable button but we only have 1 color in ABS.  We print the buttons in batches and then trade a different colored button (usually high contrast difference) for the button itself.  Removing the buttons are easy from a well prepared surface. We take a little extra time removing the buttons with the delicate 'spring' like spiral but if you work a spatula along the spiral to the base of the button the button usually pops off.
+
+## Assembly Notes
+We solder the jack, push the other end through the hole, solder the button and seat it onto the pedistal. Place the large button onto the small square bead and turn it until the button seats on to the square nib of the switch. Press down to hold it in place and set the ring (a little practice and you can do this very easily)  Thread the ring onto the base and tighten while holding the button down. This will keep the button from loosing the fit around the switch top. Tightening the ring will clamp the wire in place.
 
