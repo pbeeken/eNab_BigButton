@@ -1,7 +1,7 @@
 # Big Button
 This is an editable large button for use as an assistive device. While the .STL files are provided here for direct 3D printing a link is provided to [OnShape](https://www.onshape.com/en/products/free) so you can copy and scale the button to different sizes.
 
-[Public Link to OnShape Design]()
+[Public Link to OnShape Design](https://bhhs.onshape.com/documents/78bbdee173944de41d598962/w/2f661b4d61a50f31ac1c939b/e/03b1ed92ffad79868d8ec1e2)
 
 It is based on a [design on thingaverse](https://www.thingiverse.com/thing:3062522) downloaded a while ago by some students who wanted to customize the design. We wound up using a different switch available from [Digikey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3F-4055/31799) which we got for $0.55. The internals of the switch was designed to fit the registration pins on the bottom of the button and to accomodate the square pin on top.  A slightly [cheaper alternative](https://www.digikey.com/en/products/detail/c-k/PTS125SJK73-2-LFS/1146902) is a button very similar but lacks the registration pins. We also closed the tollerance on the opening for the 3.1mm power cable so that screwing the top down locks the cable in place. This simplified our 'production line' manufacturing type process for [Makers Making Change](https://makersmakingchange.com/) hacked toys. 
 
